@@ -1,9 +1,3 @@
-# PRODIGY_ML_01
-Machine learning and deep learning projects completed during my internship.
-# Prodigy Infotech – Machine Learning Internship
-
-This repository contains the tasks and projects completed during my Machine Learning Internship at Prodigy Infotech.
-
 ## Projects
 
 | Task | Project | Description |
@@ -38,5 +32,3 @@ This repository contains the tasks and projects completed during my Machine Lear
 ## Author
 
 Ayushi
-
-Machine Learning Intern – Prodigy Infotech
